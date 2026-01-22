@@ -1,1 +1,1 @@
-print("Now to merer this into ft_one")
+print("Now to merge this into ft_one")
